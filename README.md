@@ -80,8 +80,7 @@ The dataset underwent extensive cleaning and preprocessing to ensure the quality
 Give credit here:
 - This project was inspired by data analysis techniques learned from the [Lending Club Dataset Analysis].
 - References: [Pandas Documentation](https://pandas.pydata.org/), [Seaborn Documentation](https://seaborn.pydata.org/).
-- This project was based on [this tutorial](https://www.example.com).
-
+  
 ## Contact
 
 Created by [@anishdb13](https://github.com/anishdb13) - feel free to contact me!
